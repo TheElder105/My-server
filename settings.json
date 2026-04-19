@@ -7,7 +7,7 @@
 
   "server": {
     "ip": "NitroServer-W4Kl.aternos.me", 
-    "port": Port: 59841,   
+    "port": 59841,   
     "version": "1.12.1"   
   },
 
