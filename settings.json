@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "matrxas", 
+    "username": "The hasnen", 
     "password": "",
     "type": "offline"
   },
@@ -20,12 +20,12 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "maisf12u"
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": true
     },
 
